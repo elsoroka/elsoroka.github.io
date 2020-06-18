@@ -1,5 +1,5 @@
 ---
-title: Projects
+title: Emiko Soroka | Projects
 ---
 # Personal Projects
 
