@@ -8,13 +8,12 @@ As a junior, I started UC Irvine's CanSat team. The CanSat Competition allows up
 
 
 ### Purchase management is difficult for humans
-* It was difficult to train new students to use the School of Engineering order forms.
+* It was difficult to train new students to use the School of Engineering order forms. Errors often caused procurement delays.
 * Each order had to be logged in a spreadsheet.
-* When purchase orders got edited or returned due to errors, the log had to be updated.
-* Errors often caused procurement delays. Students forgot to update the log when they modified their purchase orders.
+* When purchase orders were edited or returned due to errors, the log had to be updated. Students often forgot this step. The log contained incorrect records.
 
 
-### We couldn't find existing software to fit our team.
+### Existing software didn't fit our team
 * To ensure everyone can access the software, it should be web-based.
 * Most students don't have access to web hosting or the know-how to make it work.
 * Students are reluctant to pay for expensive commercial-grade software they don't really need.
@@ -34,6 +33,6 @@ The system is implemented using only Google Scripts, Spreadsheets, and Forms. An
 * The system can be configured as a plugin associated with a Google spreadsheet.
 
 ## Results
-* Procurement delays due to incorrectly-filled-out forms were eliminated.
+* Procurement delays due to incorrectly completed forms were eliminated.
 * Project spending was automatically and accurately tracked.
 * Another senior design team adopted our system!
