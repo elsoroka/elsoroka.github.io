@@ -1,5 +1,5 @@
 ---
-title: Contact
+title: Emiko Soroka | Contact
 ---
 ## I can be reached at
 * My main email: emiko (at) me (dot) com
