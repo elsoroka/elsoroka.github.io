@@ -1,3 +1,6 @@
+---
+title: Tools for Student Teams
+---
 # Purchase Management for Student Teams
 
 ## The Problem

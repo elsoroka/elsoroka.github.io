@@ -1,3 +1,6 @@
+---
+title: TimeCrunch
+---
 # TimeCrunch - Data-Driven Event Scheduling
 
 ## The Problem
