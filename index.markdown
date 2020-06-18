@@ -1,6 +1,12 @@
-# My Personal Website
+---
+# Feel free to add content and custom Front Matter to this file.
+# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
-(Under construction - please excuse our virtual dust.)
+layout: default
+title: Emiko Soroka
+---
+
+## (Under construction - please excuse my virtual dust.)
 
 ## Goals:
 #### Describe personal projects
