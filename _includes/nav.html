@@ -1,0 +1,85 @@
+<!-- Horizontal navbar mostly from
+	https://www.w3schools.com/css/css_navbar_horizontal.asp
+!-->
+<style>
+	.topnav{
+	}
+	.topnav ul{
+	  text-align: center;
+	  padding:0;
+	  margin:0;
+	  list-style:none;
+	}
+	.topnav li{
+		  display: inline;
+	}
+	.topnav a {
+	  display: inline-block;
+	  color: white;
+	  padding: 16px 30px;
+	  text-decoration: none;
+	}
+	.topnav li a:hover {
+  		background-color: white;
+  		color: #1e6bb8;
+	}
+	.topnav:active {
+	  background-color: white;
+	  color: #1e6bb8;
+	}
+
+	.dropdown-content li a, .dropbtn {
+	  display: inline-block;
+	  color: white;
+	  text-align: center;
+	  padding: 14px 16px;
+	  text-decoration: none;
+	}
+
+	.dropdown-content li a:hover, .dropdown:hover .dropbtn {
+	  background-color: white;
+	  color:#1e6bb8;
+	}
+
+	.topnav li.dropdown {
+	  display: inline-block;
+	}
+
+	.dropdown-content {
+	  display: none;
+	  position: absolute;
+	  background-color: #f1f1f1;
+	  min-width: 160px;
+	  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+	  z-index: 1;
+	}
+
+	.dropdown-content a {
+	  color: #1e6bb8;
+	  padding: 16px 30px;
+	  text-decoration: none;
+	  display: block;
+	  text-align: left;
+	}
+
+
+	.dropdown:hover .dropdown-content {
+	  display: block;
+	}
+
+</style>
+
+<nav class=topnav>
+<ul>
+	<li><a href="/">Home</a></li>
+	<li><a href="/resume">Resum&eacute;</a></li>
+	<li class="dropdown">
+    <a href="/projects" class="dropbtn">Projects</a>
+    <div class="dropdown-content">
+      <a href="/projects/timecrunch">TimeCrunch - Data-Driven Event Scheduling</a>
+      <a href="/projects/tools-for-student-teams">Tools for Student Design Teams</a>
+    </div>
+  </li>
+	<li><a href="/contact">Contact</a></li>
+</ul>
+</nav>
