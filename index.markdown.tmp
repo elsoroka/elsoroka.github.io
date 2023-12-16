@@ -6,11 +6,10 @@ layout: default
 title: Home
 ---
 
-## Page under construction (pardon our virtual dust).
 Please check out these other pages:
-#### [Personal and course projects](/projects)
-#### [My CV](/resume)
-#### Some fun and interesting things!
+### [Personal and course projects](/projects)
+### [My CV](/resume)
+### Some fun and interesting things!
 * Like [spiders wearing water droplets as hats](https://www.boredpanda.com/jumping-spiders-wearing-water-droplet-hats/)
 * And [LaTeX code-listing templates](https://github.com/elsoroka/latex-ideas)
 * Google Scripts hacks for productivity and happiness (coming soon)

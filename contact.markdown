@@ -1,6 +1,7 @@
 ---
-title: Contact
+title: Emiko Soroka | Contact
 ---
-## I can be reached at
-* My main email: emiko (at) me (dot) com
+## Where to find me
 * My academic email: esoroka (at) stanford (dot) edu
+* [My LinkedIn](https://www.linkedin.com/in/emi-soroka-175105150/)
+* [My GitHub](https://github.com/elsoroka/)

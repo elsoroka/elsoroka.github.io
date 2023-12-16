@@ -1,10 +1,8 @@
 ---
-title: Emiko Soroka | Resum&eacute
+title: Emiko Soroka | CV
 ---
-Contact me on [LinkedIn](https://www.linkedin.com/in/emi-soroka-175105150/)
 
-
-Emiko Soroka
+Emi Soroka
 ============
 
 Education

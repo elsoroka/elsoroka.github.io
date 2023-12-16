@@ -23,8 +23,7 @@ email: emiko@me.com
 description: >- # this means to ignore newlines until "baseurl:"
   My Website
 long_description: >-
-  Welcome! I'm Emiko, an aerospace engineer from UC Irvine currently attending graduate school at Stanford University.</br>
-  I believe in working smart <i>and</i> hard, solving problems with software, and never settling for &quot;good enough&quot;.
+  Welcome! I'm Emi, a PhD student at Stanford University. My research combines tools from optimization, statistics, and formal verification to address the long-tail problem in autonomous systems.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  elsoroka

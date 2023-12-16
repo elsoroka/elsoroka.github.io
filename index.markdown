@@ -1,8 +1,8 @@
 ---
-title: About
+title: About Me
 ---
 
-Emi Soroka
+About Me
 ========
 My favorite phrases to see in research are "globally optimal" and "provably correct". I am a PhD candidate in Aeronautics and Astronautics: my research applies methods from formal verification and statistics to help autonomous vehicles navigate long-tail situations.
 
