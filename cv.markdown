@@ -11,11 +11,11 @@ Education
 Apr. 2021 - present
 : **PhD. Aeronautics and Astronautics**; Stanford University.
 <br>
-Advisors: Sanjay Lall and Mykel J. Kochenderfer
+Advisors: [Sanjay Lall](https://lall.stanford.edu/) and [Mykel J. Kochenderfer](https://mykel.kochenderfer.com/)
 
 
 Sep. 2019 - Mar. 2021
-:   **M.S. Aero/Astro**; Stanford University.
+:   **M.S. Aeronautics and Astronautics**; Stanford University.
 <br>
 Relevant Coursework: Convex Optimization, Optimal Control, Automated Reasoning, Machine Learning, Large-Scale Computation &amp; Optimization, Probability Theory, Theory of Modern Statistics.
 
@@ -82,10 +82,10 @@ Teaching
 
 **Teaching Assistant**, Stanford University; Mar. 2021 - Mar. 2022.
 :    Courses:
-* Convex Optimization I (EE364A)
-* Linear Dynamical Systems  (EE263, head TA)
-* Circuits I Lab (EE101A)
-* Intro to Machine Learning (EE104)
+* Convex Optimization I ([EE364A](http://ee364a.stanford.edu/)). PI: Stephen Boyd.
+* Linear Dynamical Systems  ([EE263](https://ee263.stanford.edu/), head TA). PI: Sanjay Lall.
+* Circuits I Lab (EE101A). PI: Joanna Sands.
+* Intro to Machine Learning ([EE104](https://ee104.stanford.edu/)). PI: Sanjay Lall.
 * Awards: **Centennial Teaching Assistant**, given by student nomination for outstanding teaching.
 
 
@@ -153,15 +153,15 @@ Won the Editors’ Choice award for the project and presentation.
 Volunteer Work
 ----------
 
-**AIAA Social Chair / Club Treasurer**, Stanford University; Jan. 2022 - Jun. 2023.
+**[AIAA](https://aa.stanford.edu/our-culture/student-groups) Social Chair / Club Treasurer**, Stanford University; Jan. 2022 - Jun. 2023.
 * Planned social and professional events for the Aeronautics and Astronautics department including student-faculty lunches, interdisciplinary socials, and the Aero/Astro Campout, a student-run weekend retreat for 70 participants.
 * Managed the event budget and aplied for external grants. Implemented cost-saving measures, reducing spending by \$300 per quarter without compromising social offerings.
 	
-**Dean's Graduate Student Advisory Council**, Stanford University; Sep. 2022 - Jun 2023.
+**[Dean's Graduate Student Advisory Council](https://engineering.stanford.edu/students-academics/equity-and-inclusion-initiatives/graduate-programs/dean-s-graduate-student)**, Stanford University; Sep. 2022 - Jun 2023.
 * Participated in faculty meetings to present new student-led initiatives tackling problems in the School of Engineering and request advisors' participation.
 * Led development of an intranet help website collecting resources for struggling graduate students.
 
-**IEEE Club Event Coordinator**, UC Irvine; Sep. 2018 - June 2019.
+**[IEEE](https://www.linkedin.com/company/ieee-uci/) Event Coordinator**, UC Irvine; Sep. 2018 - June 2019.
 
 * Collaborated with other students to plan educational and social events. Prepared content and taught workshops on LaTeX, Excel, and Google Script. Wrote weekly newsletters promoting club events.
 * Implemented checklists to standardize event planning and prevent tasks from being missed.
