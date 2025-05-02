@@ -9,11 +9,16 @@ I enjoy understanding and improving complex systems of all types. I have previou
 News
 --------
 
+* *Apr. 22, 2025.* I was selected to participate in the 2025 Rising Stars in Computational and Data Sciences workshop! I gave a presentation on my current research titled *From LLMs to LxMs:
+Foundation Models for Non-Text Data*.
+
+* Mar. 16, 2025.* Our paper, [Learning Temporal Logic Predicates from Data with Statistical Guarantees](https://arxiv.org/abs/2406.10449) was accepted for publication at Learning for Decision and Control 2025.
+
+* *Aug. 20, 2024.* Our paper, [Satisfiability.jl: Satisfiability Modulo Theories in Julia](https://joss.theoj.org/papers/10.21105/joss.06757) has been published in the Journal of Open-Source Software!
+
+* *June 25, 2024.* I presented a poster: *Smooth Path Planning with Temporal Logic Constraints as a Mixed-Integer Linear Program* at the 2024 Princeton Workshop on Optimization and Control
+
 * *Dec. 16, 2023.* [Satisfiability.jl](https://elsoroka.github.io/Satisfiability.jl/dev/) version 0.1.1 has been released! This version includes bugfixes and improvements from the initial release, version 0.1.0.
-
-* *Dec. 12, 2023.* I submitted [*Satisfiability.jl: Satisfiability Modulo Theories in Julia*](https://arxiv.org/abs/2309.08778) to NASA Formal Methods 2024. This paper and the software it presents were co-written with Professors Mykel J. Kochenderfer and Sanjay Lall.
-
-* *Nov. 29, 2023.* [Aditya](https://github.com/aditya-sengupta/) and I received approval to develop a one unit advanced Julia course supervised by [Professor Eric Darve](https://profiles.stanford.edu/eric-darve)! This course will teach students to develop high quality research software in Julia.
 
 * *Oct. 18 2023.* I built a new website for Lall Group! Check it out: [lallgroup.github.io](https://lallgroup.github.io/)
 
