@@ -12,7 +12,7 @@ News
 * *Apr. 22, 2025.* I was selected to participate in the 2025 Rising Stars in Computational and Data Sciences workshop! I gave a presentation on my current research titled *From LLMs to LxMs:
 Foundation Models for Non-Text Data*.
 
-* Mar. 16, 2025.* Our paper, [Learning Temporal Logic Predicates from Data with Statistical Guarantees](https://arxiv.org/abs/2406.10449) was accepted for publication at Learning for Decision and Control 2025.
+* *Mar. 16, 2025.* Our paper, [Learning Temporal Logic Predicates from Data with Statistical Guarantees](https://arxiv.org/abs/2406.10449) was accepted for publication at Learning for Decision and Control 2025.
 
 * *Aug. 20, 2024.* Our paper, [Satisfiability.jl: Satisfiability Modulo Theories in Julia](https://joss.theoj.org/papers/10.21105/joss.06757) has been published in the Journal of Open-Source Software!
 
